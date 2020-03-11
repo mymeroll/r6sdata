@@ -35,5 +35,6 @@
 			送信
 		</button>
 	</form>
+	<a href="/apex">apex</a>
 </body>	
 </html>

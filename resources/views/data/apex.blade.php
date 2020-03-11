@@ -34,5 +34,6 @@
 			送信
 		</button>
 	</form>
+	<a href="/data">r6s</a>
 </body>	
 </html>
